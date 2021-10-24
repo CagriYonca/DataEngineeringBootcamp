@@ -1,4 +1,4 @@
-# DataEngineeringBootcamp
+# Data Engineering Bootcamp
 Projects I made at Istanbul Data Science Academy
 
 # Education Curriculum Overview
