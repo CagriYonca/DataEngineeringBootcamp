@@ -2,19 +2,19 @@
 Projects I made at Istanbul Data Science Academy
 
 # Education Curriculum Overview
-## Part 1 | 3 Weeks
+## Part 1  |  3 Weeks
 - Linux
 - Bash Shell
 - Docker
 - Scala
 
-## Part 2 | 2 Weeks
+## Part 2  |  2 Weeks
 - SQL
 - Analytical SQL (on Oracle and Postgredb) 
 - Data Lake
 - DWH
 
-## Part 3 | 3 Weeks
+## Part 3  |  3 Weeks
 - NoSQL
 - Cassandra
 - MongoDB
@@ -25,7 +25,7 @@ Projects I made at Istanbul Data Science Academy
 
 Project: Writing API with Spring boot
 
-## Part 4 | 4 Weeks
+## Part 4  |  4 Weeks
 - Google Cloud Data Engineering
 - BigQuery
 - CloudSQL
@@ -40,7 +40,7 @@ Project: Writing API with Spring boot
 - Architecting with Google Kubernetes Engine
 - CI/CD
 
-## Chapter 5 | 4 Weeks
+## Chapter 5  |  4 Weeks
 - Big Data, HDFS, Yarn, Sqoop
 - Khiva, Presto
 - Nifi
