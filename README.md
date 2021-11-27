@@ -3,14 +3,14 @@ Projects I made at Istanbul Data Science Academy
 
 # Education Curriculum Overview
 ## Part 1  |  3 Weeks
-- Linux
-- Bash Shell
-- Docker
+- Linux ✅
+- Bash Shell ✅
+- Docker ✅
 - Scala
 
 ## Part 2  |  2 Weeks
-- SQL
-- Analytical SQL (on Oracle and Postgredb) 
+- SQL ✅
+- Analytical SQL (on Oracle and Postgredb) ✅
 - Data Lake
 - DWH
 
