@@ -11,27 +11,27 @@ Projects I made at Istanbul Data Science Academy
 ## Part 2  |  2 Weeks
 - SQL ✅
 - Analytical SQL (on Oracle and Postgredb) ✅
-- Data Lake
-- DWH
+- Data Lake ✅
+- DWH ✅
 
 ## Part 3  |  3 Weeks
-- NoSQL
+- NoSQL ✅
 - Cassandra
-- MongoDB
-- Druid
-- Redis
-- Elastic Search
+- MongoDB ✅
+- Druid 
+- Redis ✅
+- Elastic Search ✅
 - Superset
 
 Project: Writing API with Spring boot
 
 ## Part 4  |  4 Weeks
 - Google Cloud Data Engineering
-- BigQuery
+- BigQuery ✅
 - CloudSQL
-- Running Spark Job Dataproc
+- Running Spark Job Dataproc ✅
 - Cloud Composer
-- AirFlow
+- AirFlow ✅
 - Pub/Sub
 - Data Flow pipeline (Python, Java)
 - Beam
@@ -43,12 +43,12 @@ Project: Writing API with Spring boot
 ## Chapter 5  |  4 Weeks
 - Big Data, HDFS, Yarn, Sqoop
 - Khiva, Presto
-- Nifi
-- Kafka
+- Nifi ✅
+- Kafka 
 - Spark, Spark RDD , Spark SQL
-- Spark Streaming
+- Spark Streaming ✅
 
 # 3 Big Projects
-- API project
+- API project ✅
 - Kubernetes Deploy End to End
 - Spark Streaming End To End
